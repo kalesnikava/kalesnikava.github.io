@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Michigan</a>. [Institute for Social Research](http://isr.umich.edu/). [School of Public Health](http://sph.umich.edu/).
+subtitle: <a href='#'>University of Michigan</a>. [Institute for Social Research](https://isr.umich.edu/). [School of Public Health](https://sph.umich.edu/).
 
 profile:
   align: right
